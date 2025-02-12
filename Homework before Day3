@@ -11,3 +11,21 @@ What are Daemon Sets and Stateful Sets?
 What is a pod,Deployment and Ingress?
 
 Why are Ingress Controllers Used?
+
+What is difference between kubernetes config maps and kubernetes secrets?
+
+What are different types of kubernetes services?
+
+What is readiness and liveness probe?
+
+How do you make a pod get scheduled on particular node?
+
+What are resource limits in Kubernetes?
+
+What are Taints and Tolerations?
+
+What is HPA? 
+
+How do you configure private images in Kubernetes?
+
+Why does crashloopback error occurs and how do you troubleshoot?
