@@ -1,0 +1,14 @@
+
+Ansible session:
+
+What are Ansible roles?
+
+Why is Ansible not used for IAC though it has capacity like terraform?
+
+Why is Ansible called push software? And what does pull and push means!?
+
+How does Ansible connects to other servers without using agents?
+
+How do you write dictionary and lists in Ansible playbooks?
+
+How can you target a specific groups of hosts using inventory file?
