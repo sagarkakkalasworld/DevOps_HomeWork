@@ -1,1 +1,8 @@
-
+Why is Terraform preffered over CloudFormation in most companies?
+Why is Terraform preffered over Ansible for Infrastructure as code?
+What are Terraform Modules?
+What Terraform command do use to work in isolation of each environment?
+What does Terraform Init, Terraform Plan, Terraform Apply, Terraform Destroy commands do?
+What command is used to to make Terraform code look neat?
+Can you bring Manual Resources into Terraform control?, if yes. what command is used?
+Why is state lock important for Terraform state files?
