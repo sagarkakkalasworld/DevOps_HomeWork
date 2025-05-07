@@ -1,0 +1,7 @@
+What are Prometheus rules?
+Will configuting prometheus rules sends alerts?
+What is alert manager?
+Can you use alert manager to send same notification to send different channels like teams, outlook, slack?, and if yes, how?
+How do you use labels in alert manager?
+What is service discovery and targets in prometheus?
+What does Firing alert in prometheus mean?
