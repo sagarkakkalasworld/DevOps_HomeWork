@@ -1,0 +1,5 @@
+1.What are different tools used in the project?
+2.Can you explain architecture or devops workflow of the project?
+3.How do you troubleshoot helm charts installation as we have used microk8s which runs in different port unlike kubernetes?
+4.How do you troubleshoot ansible installation if config file shows none?
+5.What are alternative tools that can be used in project abd why would you prefer that particular tool in this project?
