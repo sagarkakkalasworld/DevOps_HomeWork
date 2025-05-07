@@ -1,0 +1,6 @@
+1.What are different tools used in GitOps?
+2.Why do ArgoCD need secret Management?
+3.How do Bitnami sealed secrets work?
+4.What manifest files work in ArgoCD tool?
+5.Can you create argocd application without using UI, if yes, then how?
+6.How does argoCd help in troubleshooting?
